@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://agnabyte.tech/sitemap.xml
+
+# Block access to admin areas (if any in future)
+Disallow: /admin/
+Disallow: /api/
+
+# Allow all content for search engines
+Allow: /blog/
+Allow: /images/
