@@ -24,7 +24,7 @@ export function SEOStructuredData({ type = 'organization', data }: SEOStructured
             "@type": "ContactPoint",
             "telephone": "+1-866-743-0428",
             "contactType": "customer service",
-            "email": "info@agnabyte.com"
+            "email": "info@agnabyte.tech"
           },
           "sameAs": [
             "https://twitter.com/agnabyte",

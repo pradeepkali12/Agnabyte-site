@@ -183,8 +183,8 @@ export default function Home() {
                 <div className="flex items-center justify-between">
                   <dt className="text-slate-600">Email</dt>
                   <dd>
-                    <a className="text-amber-600 underline-offset-2 hover:underline" href="mailto:info@agnabyte.com">
-                      info@agnabyte.com
+                    <a className="text-amber-600 underline-offset-2 hover:underline" href="mailto:info@agnabyte.tech">
+                      info@agnabyte.tech
                     </a>
                   </dd>
                 </div>
@@ -213,7 +213,7 @@ export default function Home() {
           </p>
           <div className="mt-4 flex justify-center">
             <a
-              href="mailto:info@agnabyte.com?subject=I%20want%20to%20get%20in%20touch"
+              href="mailto:info@agnabyte.tech?subject=I%20want%20to%20get%20in%20touch"
               className="inline-flex items-center justify-center rounded-md bg-amber-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-amber-600 focus:ring-offset-2"
             >
               Contact us today
