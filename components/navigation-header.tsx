@@ -14,11 +14,11 @@ import {
 } from "@/components/ui/sheet"
 
 const navigationItems = [
-  { href: "#about", label: "About" },
-  { href: "#services", label: "Services" },
-  { href: "#why-choose-us", label: "Why Us" },
+  { href: "/#about", label: "About" },
+  { href: "/#services", label: "Services" },
+  { href: "/#why-choose-us", label: "Why Us" },
   { href: "/blog", label: "Blog" },
-  { href: "#contact", label: "Contact" },
+  { href: "/#contact", label: "Contact" },
 ]
 
 export function NavigationHeader() {
@@ -53,7 +53,7 @@ export function NavigationHeader() {
               </Link>
             ))}
             <Link
-              href="#contact"
+              href="/#contact"
               className="inline-flex items-center justify-center rounded-md bg-amber-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-amber-600 focus:ring-offset-2"
             >
               Get in Touch
@@ -97,7 +97,7 @@ export function NavigationHeader() {
                     </Link>
                   ))}
                   <Link
-                    href="#contact"
+                    href="/#contact"
                     className="inline-flex items-center justify-center rounded-md bg-amber-600 px-4 py-3 text-sm font-medium text-white transition-colors hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-amber-600 focus:ring-offset-2 mt-4"
                     onClick={() => setIsOpen(false)}
                   >
