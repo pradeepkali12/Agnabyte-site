@@ -52,7 +52,7 @@ export default function Home() {
           <h2 className="text-balance text-2xl font-semibold tracking-tight text-slate-900 md:text-3xl">About Us</h2>
           <p className="mt-4 text-pretty text-base leading-relaxed text-slate-600">
             Agnabyte digitally empowers local businesses with practical tools and honest guidance. We keep things simple
-            and reliable so you can focus on growth—whether that’s launching online, understanding your data, or scaling
+            and reliable so you can focus on growth—whether that's launching online, understanding your data, or scaling
             with SaaS.
           </p>
         </div>

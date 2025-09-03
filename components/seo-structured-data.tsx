@@ -12,9 +12,9 @@ export function SEOStructuredData({ type = 'organization', data }: SEOStructured
         return {
           "@context": "https://schema.org",
           "@type": "Organization",
-          "name": "Agnabyte",
+            "name": "Agnabyte Technologies",
           "url": "https://agnabyte.tech",
-          "logo": "https://agnabyte.tech/images/agnabyte-logo.png",
+            "logo": "https://agnabyte.tech/images/agnabyte-logo.png",
           "description": "Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results.",
           "address": {
             "@type": "PostalAddress",
@@ -52,7 +52,7 @@ export function SEOStructuredData({ type = 'organization', data }: SEOStructured
           },
           "publisher": {
             "@type": "Organization",
-            "name": "Agnabyte",
+            "name": "Agnabyte Technologies",
             "logo": {
               "@type": "ImageObject",
               "url": "https://agnabyte.tech/images/agnabyte-logo.png"

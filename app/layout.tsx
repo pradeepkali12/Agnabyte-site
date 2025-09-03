@@ -7,8 +7,8 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://agnabyte.tech'),
   title: {
-    default: 'Agnabyte - Digital Transformation for Local Businesses',
-    template: '%s | Agnabyte'
+    default: 'Agnabyte Technologies - Digital Transformation for Local Businesses',
+    template: '%s | Agnabyte Technologies'
   },
   description: 'Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results. Transform your local business into a digital success story.',
   keywords: [
@@ -25,25 +25,25 @@ export const metadata: Metadata = {
     'cloud solutions',
     'business intelligence'
   ],
-  authors: [{ name: 'Agnabyte', url: 'https://agnabyte.tech' }],
-  creator: 'Agnabyte',
-  publisher: 'Agnabyte',
+  authors: [{ name: 'Agnabyte Technologies', url: 'https://agnabyte.tech' }],
+  creator: 'Agnabyte Technologies',
+  publisher: 'Agnabyte Technologies',
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
   openGraph: {
-    title: 'Agnabyte - Digital Transformation for Local Businesses',
-    description: 'Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results.',
+    title: 'Agnabyte Technologies - Digital Transformation for Local Businesses',
+    description: 'Practical digital transformation, clear analytics, and scalable SaaSbuilt for real businesses and real results.',
     url: 'https://agnabyte.tech',
-    siteName: 'Agnabyte',
+    siteName: 'Agnabyte Technologies',
     images: [
       {
         url: '/images/agnabyte-logo.png',
         width: 1200,
         height: 630,
-        alt: 'Agnabyte - Digital Transformation for Local Businesses',
+        alt: 'Agnabyte Technologies - Digital Transformation for Local Businesses',
       },
     ],
     locale: 'en_US',
@@ -51,8 +51,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Agnabyte - Digital Transformation for Local Businesses',
-    description: 'Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results.',
+    title: 'Agnabyte Technologies - Digital Transformation for Local Businesses',
+    description: 'Practical digital transformation, clear analytics, and scalable SaaSbuilt for real businesses and real results.',
     images: ['/images/agnabyte-logo.png'],
     creator: '@agnabyte',
   },
