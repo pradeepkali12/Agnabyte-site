@@ -6,7 +6,7 @@ export function Contact() {
   const [name, setName] = useState("")
   const [message, setMessage] = useState("")
 
-  const email = "info@agnabyte.com"
+  const email = "info@agnabyte.tech"
   const phone = "8667430428"
 
   const mailto = () => {
