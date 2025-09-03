@@ -52,7 +52,7 @@ export function SEOStructuredData({ type = 'organization', data }: SEOStructured
           },
           "publisher": {
             "@type": "Organization",
-            "name": "Agnabyte Technologies",
+            "name": "Agnabyte Technology",
             "logo": {
               "@type": "ImageObject",
               "url": "https://agnabyte.tech/images/agnabyte-logo.png"
