@@ -90,6 +90,8 @@ export default function RootLayout({
         <meta name="theme-color" content="#d97706" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href="https://agnabyte.tech" />
+    {/* Help Google show agnabyte-pic as the search icon/logo */}
+    <meta itemProp="image" content="/images/agnabyte-pic.png" />
   {/* BIMI Lookup Script by EasyDMARC */}
         <script
           type="application/ld+json"
@@ -99,9 +101,9 @@ export default function RootLayout({
               "@type": "Organization",
               "name": "Agnabyte",
               "url": "https://agnabyte.tech",
-              "favicon": "https://agnabyte.tech/images/agnabyte-favicon.png",
-              "logo": "https://agnabyte.tech/images/agnabyte-pic.png",
-              "image": "https://agnabyte.tech/images/agnabyte-logo.png",
+      "logo": "https://agnabyte.tech/images/agnabyte-pic.png",
+      "favicon": "https://agnabyte.tech/images/agnabyte-pic.png",
+      "image":"https://agnabyte.tech/images/agnabyte-picture.svg",
               "description": "Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results.",
               "address": {
                 "@type": "PostalAddress",
