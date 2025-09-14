@@ -90,6 +90,8 @@ export default function RootLayout({
         <meta name="theme-color" content="#d97706" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href="https://agnabyte.tech" />
+  {/* BIMI Lookup Script by EasyDMARC */}
+  <script data-id="ur012h" data-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InVyMDEyaCIsImhlaWdodCI6ImF1dG8iLCJ0eXBlIjoiYmltaS1sb29rdXAiLCJ3aWR0aCI6IjEwMCUiLCJib3hfc2hhZG93IjoiMCAwIDEwcHggIzAwMDAwMDI2IiwiYm9yZGVyX3JhZGl1cyI6IjhweCIsImF1dG9pbml0IjoidHJ1ZSIsIm9wdGlvbnMiOnsic3R5bGVzIjp7InRoZW1lIjp7InRoZW1lX21vZGUiOiJsaWdodCJ9fSwiZWRpdGlvbiI6ImJhc2ljIn0sImlhdCI6MTc1Nzg0MTk2Nn0.rPIfwNEFea0_exhvVEyVCHYCIiYaaHoMKWQKgbItdlk" src="https://easydmarc.com/tools/embedjs"></script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
