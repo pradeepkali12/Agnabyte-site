@@ -85,7 +85,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" href="/images/agnabyte-favicon.png" />
+        <link rel="icon" type="image/png" href="/images/agnabyte-pic.png" />
         <link rel="apple-touch-icon" href="/images/agnabyte-logo.png" />
         <meta name="theme-color" content="#d97706" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -98,7 +98,9 @@ export default function RootLayout({
               "@type": "Organization",
               "name": "Agnabyte",
               "url": "https://agnabyte.tech",
-              "logo": "https://agnabyte.tech/images/agnabyte-favicon.png",
+              "favicon": "https://agnabyte.tech/images/agnabyte-favicon.png",
+              "logo": "https://agnabyte.tech/images/agnabyte-pic.png",
+              "image": "https://agnabyte.tech/images/agnabyte-logo.png",
               "description": "Practical digital transformation, clear analytics, and scalable SaaS—built for real businesses and real results.",
               "address": {
                 "@type": "PostalAddress",
